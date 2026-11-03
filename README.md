@@ -2,6 +2,11 @@
 
 Projeto desenvolvido em Java como parte dos estudos de programação.
 
+## 🎥 Apresentação do projeto
+
+Confira o vídeo de demonstração e explicação do Sistema de Restaurante:
+https://lnkd.in/p/eWzUKrxw
+
 ## Sobre o projeto
 
 O sistema permite realizar o gerenciamento de pedidos de um restaurante, desde a escolha e personalização dos lanches até o acompanhamento dos pedidos e o fechamento do dia.
